@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 557c0c929a8070242a2a22a1c56416e5, type: 3}
+  m_Name: FireTower
+  m_EditorClassIdentifier: 
+  GoldCost: 60
+  Sprite: {fileID: 21300000, guid: 298636722737c4b41816506cd4bc994f, type: 3}
+  Color: {r: 0.9056604, g: 0.76980263, b: 0.35457456, a: 1}
+  GUISprite: {fileID: 21300000, guid: 34d6703ba7cf6dd469bb0aad4781fccb, type: 3}
+  RequiredUpgrade: {fileID: 11400000, guid: 6dd8d811404f7e243984552ec591c602, type: 2}
+  RequiredUpgradeLevel: 1
+  TurretPropertiesAsset: {fileID: 11400000, guid: bbd8cb5c396e80c4f9b2e312cdf9d09d, type: 2}

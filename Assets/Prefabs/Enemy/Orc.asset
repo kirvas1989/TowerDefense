@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ff140772fb31484395960e34621fdfd, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  animations: {fileID: 9100000, guid: a1dc386d7d7c63d489c9bf5c1e2858f1, type: 2}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  spiteScale: {x: 2, y: 2}
+  colliderOffset: {x: 0, y: 0.25}
+  colliderRadius: 0.15
+  m_ArmorType: 1
+  moveSpeed: 0.75
+  hp: 20
+  armor: 5
+  score: 3
+  damage: 2
+  gold: 2
